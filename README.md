@@ -2,6 +2,7 @@
 
 ### Table of Content
 - Overview
+- Software Dependencies
 - Data flow diagram
 - Installation
 - Setup the program
@@ -10,6 +11,12 @@
 
 ## Overview
 The library management system software makes the library a smart one by organizing the books systematically by author, title and subject. This enables users to search for books quickly and effortlessly.This a simple Library Management System with  APIs to manage users, books, book details, and borrowed books. Leveraging the FastAPI framework, the system offers a scalable and efficient solution, allowing users to create and retrieve information about library resources, track book details, and manage borrowing transactions. The application is equipped with Swagger documentation for easy API exploration, making it accessible for both developers and end-users.
+
+### Software Dependencies
+- Python
+- Postgresql
+- FastAPI
+- SQLAlchemy
 
 ### Data Flow Diagram
 ![alt text](<Screenshot from 2024-02-02 21-26-13.png>)
